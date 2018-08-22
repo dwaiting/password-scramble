@@ -17,7 +17,7 @@ table {
 #gameCanvas {
     border:1px solid #d3d3d3;
 }
-    
+
 .black_overlay {
     display: none;
     position: absolute;
@@ -38,7 +38,7 @@ table {
     top: 10%;
     left: 33%;
     width: 33%;
-    height: 70%;
+    height: 20%;
     padding: 10px;
     border: 16px solid #0000cc;
     background-color: white;
@@ -86,4 +86,3 @@ table {
 	position:relative;
 	top:1px;
 }
-
